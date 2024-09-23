@@ -1,0 +1,25 @@
+# Bỏ qua tệp môi trường
+.env
+backend/.env
+frontend/.env
+
+# Bỏ qua thư mục virtual environment
+venv/
+backend/venv/
+
+# Bỏ qua các tệp biên dịch Python
+__pycache__/
+*.pyc
+
+# Bỏ qua thư mục node_modules
+node_modules/
+frontend/dist/
+frontend/build/
+frontend/public/
+frontend/package-lock.json
+frontend/yarn.lock
+frontend/pnpm-lock.yaml
+frontend/bun.lockb
+frontend/pnpm-workspace.yaml
+frontend/pnpm-lock.yaml
+frontend/pnpm-workspace.yaml
